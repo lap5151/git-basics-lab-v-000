@@ -20,14 +20,14 @@ the lesson.
 Now that you've learned about Git version control, in this lab, we're going to
 go through the entire process of creating a local Git repository, creating an
 initial commit and pushing that work to a remote repo stored on
-[GitHub][github].
+[GitHub][github]!
 
 **NOTE:** If you are new to using Learn.co and this is your first lab, welcome!
 This lesson will include all the steps necessary to submit your lab work to Learn.co.
 
 ## Getting Started
 
-To start work on this lab, while on Learn.co, click the "Open IDE" button.
+To start work on this lab, while on Learn.co, click the "Open IDE" butto
 
 > If you are using the in-browser Learn IDE, the IDE will open on the page
 
@@ -81,7 +81,7 @@ tests to let us know when we're all done.
 ## Instructions
 
 > ***IMPORTANT TIPS TO AVOID GETTING STUCK***
-> 
+>
 > 1. The work you will do to set up the Git repository will be done in the
 >    `my-repository` directory (after you create it ;)). If you're doing `git`
 >    commands in the same directory as THIS `README` that you're reading right
@@ -190,5 +190,3 @@ work!
 [pr]: https://help.github.com/en/articles/about-pull-requests
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/git-remotes-and-github-lab' title='Git Remotes + GitHub Lab'>Git Remotes + GitHub Code-Along</a> on Learn.co and start learning to code for free.</p>
-
-
